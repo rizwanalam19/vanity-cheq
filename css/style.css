@@ -1,0 +1,79 @@
+nav .nav-link{
+  color: black;
+  font-weight: bold;
+}
+.collection-card .stripe.dark {
+    background-color: rgba(0,0,0,0.7);
+}
+.collection-card .stripe {
+    position: absolute;
+    bottom: 3rem;
+    width: 100%;
+    padding: 1.2rem;
+    text-align: center;
+}
+.collection-card .stripe.dark a p {
+    color: #eee;
+}
+.collection-card .stripe a p {
+    padding: 0;
+    margin: 0;
+    letter-spacing: .25rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}
+body {
+  font: 12px 'Open Sans', sans-serif;
+  color: #212121;
+  background: #fff;
+  overflow-x: hidden;
+}
+.container {
+  display: flex;
+  min-height: 100%;
+}
+
+.banner-ad{
+  height: 270px !important;
+}
+.footer{
+  background-color: #0A0A0A;
+
+}
+.footer .h4{
+font-family: 'Raleway', sans-serif;
+color: #be7e3e !important;
+font-weight: bold;
+}
+.footer .h6 a{
+font-family: 'Raleway', sans-serif;
+color:white;
+font-size: 14px;
+line-height: 40px;
+}
+.footer .h6 a:hover{
+  text-decoration: underline;
+  transition-delay: 5s !important;
+  transition-duration: 2s;
+}
+.horizontal{
+  width: 90%;
+
+  color: white !important;
+}
+.nav-item .nav-link{
+  font-size: 11px;
+}
+.product-card{
+  box-shadow: none;
+}
+@media (max-width: 1199px) {
+
+}
