@@ -74,6 +74,13 @@ line-height: 40px;
 .product-card{
   box-shadow: none;
 }
+.vertical-line{
+  padding: 1px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #0A0A0A;
+  height: 500px;
+}
 @media (max-width: 1199px) {
 
 }
